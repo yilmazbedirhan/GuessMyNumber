@@ -9,9 +9,9 @@ export default Title;
 
 const styles = StyleSheet.create({
   title: {
+    fontFamily: "open-sans-bold",
     textAlign: "center",
     fontSize: 25,
-    fontWeight: "bold",
     color: Colors.accent500,
     borderWidth: 3,
     borderRadius: 25,

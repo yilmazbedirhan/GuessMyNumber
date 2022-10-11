@@ -22,8 +22,8 @@ const styles = StyleSheet.create({
     padding: 25,
   },
   numberText: {
+    fontFamily: "open-sans-bold",
     color: Colors.accent500,
     fontSize: 30,
-    fontWeight: "bold",
   },
 });
